@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GunItem
+  m_TargetType:
+    m_NativeTypeID: 114
+    m_ManagedTypePPtr: {fileID: 11500000, guid: 5a9ca3c2fc56fa24e8a64fb506fff794,
+      type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorHideFlags
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorClassIdentifier
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: id
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Type
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: lefeBullet
+    value: 30
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: magBullet
+    value: 30
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: allBullet
+    value: 900
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CurrentModl
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gunData.gunType
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gunData.prefabNa
+    value: Assault_Rifle_01
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gunData.animaType
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gunData.paraName
+    value: animaType
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gunData.fireParam
+    value: fire
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gunData.aimParam
+    value: aim
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gunData.reloadParam
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gunData.handPos
+    value: BigGunPos
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gunData.maxBullet
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gunData.shotspeed
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gunData.modls.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gunData.aimPlayerSpeed
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gunData.iconName
+    value: assault_rifle_01_icon
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gunData.view
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gunData.mainView
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: buData.speed
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: buData.maxdistance
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: mag
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: bullet
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: bullPos
+    value: 
+    objectReference: {fileID: 2951939094430567333, guid: 231e4fa82986d954d9d004bb8335d6ad,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: gunCamera
+    value: 
+    objectReference: {fileID: 0}

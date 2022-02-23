@@ -1,0 +1,1433 @@
+fileFormatVersion: 2
+guid: 56ec0b9a5b8762642811ea26a5242e04
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: arm_L
+  - first:
+      1: 100002
+    second: arm_R
+  - first:
+      1: 100004
+    second: arm_target_L
+  - first:
+      1: 100006
+    second: arm_target_R
+  - first:
+      1: 100008
+    second: Armature
+  - first:
+      1: 100010
+    second: arms
+  - first:
+      1: 100012
+    second: //RootNode
+  - first:
+      1: 100014
+    second: bullet
+  - first:
+      1: 100016
+    second: camera
+  - first:
+      1: 100018
+    second: finger_01_L
+  - first:
+      1: 100020
+    second: finger_01_R
+  - first:
+      1: 100022
+    second: finger_02_L
+  - first:
+      1: 100024
+    second: finger_02_R
+  - first:
+      1: 100026
+    second: finger_03_L
+  - first:
+      1: 100028
+    second: finger_03_R
+  - first:
+      1: 100030
+    second: hand_L
+  - first:
+      1: 100032
+    second: hand_R
+  - first:
+      1: 100034
+    second: handgun_01
+  - first:
+      1: 100036
+    second: handgun_01_iron_sights
+  - first:
+      1: 100038
+    second: IK_arm_L
+  - first:
+      1: 100040
+    second: IK_arm_R
+  - first:
+      1: 100042
+    second: knife
+  - first:
+      1: 100044
+    second: knife 1
+  - first:
+      1: 100046
+    second: lower_arm_L
+  - first:
+      1: 100048
+    second: lower_arm_R
+  - first:
+      1: 100050
+    second: mag
+  - first:
+      1: 100052
+    second: middle_finger_01_L
+  - first:
+      1: 100054
+    second: middle_finger_01_R
+  - first:
+      1: 100056
+    second: middle_finger_02_L
+  - first:
+      1: 100058
+    second: middle_finger_02_R
+  - first:
+      1: 100060
+    second: middle_finger_03_L
+  - first:
+      1: 100062
+    second: middle_finger_03_R
+  - first:
+      1: 100064
+    second: scope_02
+  - first:
+      1: 100066
+    second: scope_03
+  - first:
+      1: 100068
+    second: silencer
+  - first:
+      1: 100070
+    second: slider
+  - first:
+      1: 100072
+    second: thumb_01_L
+  - first:
+      1: 100074
+    second: thumb_01_R
+  - first:
+      1: 100076
+    second: thumb_02_L
+  - first:
+      1: 100078
+    second: thumb_02_R
+  - first:
+      1: 100080
+    second: thumb_03_L
+  - first:
+      1: 100082
+    second: thumb_03_R
+  - first:
+      1: 100084
+    second: weapon
+  - first:
+      4: 400000
+    second: arm_L
+  - first:
+      4: 400002
+    second: arm_R
+  - first:
+      4: 400004
+    second: arm_target_L
+  - first:
+      4: 400006
+    second: arm_target_R
+  - first:
+      4: 400008
+    second: Armature
+  - first:
+      4: 400010
+    second: arms
+  - first:
+      4: 400012
+    second: //RootNode
+  - first:
+      4: 400014
+    second: bullet
+  - first:
+      4: 400016
+    second: camera
+  - first:
+      4: 400018
+    second: finger_01_L
+  - first:
+      4: 400020
+    second: finger_01_R
+  - first:
+      4: 400022
+    second: finger_02_L
+  - first:
+      4: 400024
+    second: finger_02_R
+  - first:
+      4: 400026
+    second: finger_03_L
+  - first:
+      4: 400028
+    second: finger_03_R
+  - first:
+      4: 400030
+    second: hand_L
+  - first:
+      4: 400032
+    second: hand_R
+  - first:
+      4: 400034
+    second: handgun_01
+  - first:
+      4: 400036
+    second: handgun_01_iron_sights
+  - first:
+      4: 400038
+    second: IK_arm_L
+  - first:
+      4: 400040
+    second: IK_arm_R
+  - first:
+      4: 400042
+    second: knife
+  - first:
+      4: 400044
+    second: knife 1
+  - first:
+      4: 400046
+    second: lower_arm_L
+  - first:
+      4: 400048
+    second: lower_arm_R
+  - first:
+      4: 400050
+    second: mag
+  - first:
+      4: 400052
+    second: middle_finger_01_L
+  - first:
+      4: 400054
+    second: middle_finger_01_R
+  - first:
+      4: 400056
+    second: middle_finger_02_L
+  - first:
+      4: 400058
+    second: middle_finger_02_R
+  - first:
+      4: 400060
+    second: middle_finger_03_L
+  - first:
+      4: 400062
+    second: middle_finger_03_R
+  - first:
+      4: 400064
+    second: scope_02
+  - first:
+      4: 400066
+    second: scope_03
+  - first:
+      4: 400068
+    second: silencer
+  - first:
+      4: 400070
+    second: slider
+  - first:
+      4: 400072
+    second: thumb_01_L
+  - first:
+      4: 400074
+    second: thumb_01_R
+  - first:
+      4: 400076
+    second: thumb_02_L
+  - first:
+      4: 400078
+    second: thumb_02_R
+  - first:
+      4: 400080
+    second: thumb_03_L
+  - first:
+      4: 400082
+    second: thumb_03_R
+  - first:
+      4: 400084
+    second: weapon
+  - first:
+      43: 4300000
+    second: arms
+  - first:
+      43: 4300002
+    second: knife
+  - first:
+      43: 4300004
+    second: handgun_01
+  - first:
+      43: 4300006
+    second: bullet
+  - first:
+      43: 4300008
+    second: scope_02
+  - first:
+      43: 4300010
+    second: scope_03
+  - first:
+      43: 4300012
+    second: silencer
+  - first:
+      43: 4300014
+    second: handgun_01_iron_sights
+  - first:
+      74: 7400000
+    second: aim_fire@handgun_01
+  - first:
+      74: 7400002
+    second: aim_fire_pose@handgun_01
+  - first:
+      74: 7400004
+    second: aim_fire_pose_scope_02@handgun_01
+  - first:
+      74: 7400006
+    second: aim_fire_pose_scope_03@handgun_01
+  - first:
+      74: 7400008
+    second: aim_fire_scope_02@handgun_01
+  - first:
+      74: 7400010
+    second: aim_fire_scope_03@handgun_01
+  - first:
+      74: 7400012
+    second: aim_in@handgun_01
+  - first:
+      74: 7400014
+    second: aim_in_scope_02@handgun_01
+  - first:
+      74: 7400016
+    second: aim_in_scope_03@handgun_01
+  - first:
+      74: 7400018
+    second: aim_out@handgun_01
+  - first:
+      74: 7400020
+    second: aim_out_scope_02@handgun_01
+  - first:
+      74: 7400022
+    second: aim_out_scope_03@handgun_01
+  - first:
+      74: 7400024
+    second: fire@handgun_01
+  - first:
+      74: 7400026
+    second: grenade_throw@handgun_01
+  - first:
+      74: 7400028
+    second: holster_weapon@handgun_01
+  - first:
+      74: 7400030
+    second: idle@handgun_01
+  - first:
+      74: 7400032
+    second: inspect_weapon@handgun_01
+  - first:
+      74: 7400034
+    second: knife_attack_1@handgun_01
+  - first:
+      74: 7400036
+    second: knife_attack_2@handgun_01
+  - first:
+      74: 7400038
+    second: out_of_ammo_slider@handgun_01
+  - first:
+      74: 7400040
+    second: Armature|pose_ref
+  - first:
+      74: 7400042
+    second: reload_ammo_left@handgun_01
+  - first:
+      74: 7400044
+    second: reload_out_of_ammo@handgun_01
+  - first:
+      74: 7400046
+    second: run@handgun_01
+  - first:
+      74: 7400048
+    second: take_out_weapon@handgun_01
+  - first:
+      74: 7400050
+    second: walk@handgun_01
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: arms
+  - first:
+      137: 13700002
+    second: bullet
+  - first:
+      137: 13700004
+    second: handgun_01
+  - first:
+      137: 13700006
+    second: handgun_01_iron_sights
+  - first:
+      137: 13700008
+    second: knife 1
+  - first:
+      137: 13700010
+    second: scope_02
+  - first:
+      137: 13700012
+    second: scope_03
+  - first:
+      137: 13700014
+    second: silencer
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arms Material
+    second: {fileID: 2100000, guid: a5c25d33ff4fb084f90ccf3f0b3659b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Guns Material
+    second: {fileID: 2100000, guid: e11c4f3ee458bf446918382a2f5f9451, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: aim_fire@handgun_01
+      takeName: Armature|aim_fire
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 6
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: aim_fire_pose@handgun_01
+      takeName: Armature|aim_fire_pose
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: aim_fire_pose_scope_02@handgun_01
+      takeName: Armature|aim_fire_pose_scope_02
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: aim_fire_pose_scope_03@handgun_01
+      takeName: Armature|aim_fire_pose_scope_03
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: aim_fire_scope_02@handgun_01
+      takeName: Armature|aim_fire_scope_02
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 6
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: aim_fire_scope_03@handgun_01
+      takeName: Armature|aim_fire_scope_03
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 6
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: aim_in@handgun_01
+      takeName: Armature|aim_in
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: aim_in_scope_02@handgun_01
+      takeName: Armature|aim_in_scope_02
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: aim_in_scope_03@handgun_01
+      takeName: Armature|aim_in_scope_03
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: aim_out@handgun_01
+      takeName: Armature|aim_out
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 12
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: aim_out_scope_02@handgun_01
+      takeName: Armature|aim_out_scope_02
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 12
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: aim_out_scope_03@handgun_01
+      takeName: Armature|aim_out_scope_03
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 12
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: fire@handgun_01
+      takeName: Armature|fire
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 16
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: grenade_throw@handgun_01
+      takeName: Armature|grenade_throw
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: holster_weapon@handgun_01
+      takeName: Armature|holster_weapon
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 13
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: idle@handgun_01
+      takeName: Armature|idle
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 180
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: inspect_weapon@handgun_01
+      takeName: Armature|inspect_weapon
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 130
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: knife_attack_1@handgun_01
+      takeName: Armature|knife_attack_1
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 74
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: knife_attack_2@handgun_01
+      takeName: Armature|knife_attack_2
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: out_of_ammo_slider@handgun_01
+      takeName: Armature|out_of_ammo_slider
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: reload_ammo_left@handgun_01
+      takeName: Armature|reload_ammo_left
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 52
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: reload_out_of_ammo@handgun_01
+      takeName: Armature|reload_out_of_ammo
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 68
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: run@handgun_01
+      takeName: Armature|run
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: take_out_weapon@handgun_01
+      takeName: Armature|take_out_weapon
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: walk@handgun_01
+      takeName: Armature|walk
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: arms_handgun_01(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Armature
+      parentName: arms_handgun_01(Clone)
+      position: {x: -0.05020532, y: -0.48156703, z: 0.11031437}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm_L
+      parentName: Armature
+      position: {x: -0.10714324, y: 0.0028290623, z: 0.89238673}
+      rotation: {x: -0.7029287, y: 0.0728161, z: 0.09345293, w: 0.70132416}
+      scale: {x: 1.0000011, y: 1.0000006, z: 1.0000011}
+    - name: lower_arm_L
+      parentName: arm_L
+      position: {x: -0, y: 0.23005466, z: 0.00000004097819}
+      rotation: {x: -0.021354986, y: -0.7067842, z: -0.021354971, w: -0.7067843}
+      scale: {x: 1.000001, y: 1.0000008, z: 1.0000012}
+    - name: hand_L
+      parentName: lower_arm_L
+      position: {x: -9.3132246e-10, y: 0.23842908, z: 0.000000026077029}
+      rotation: {x: -0.68447757, y: -0.6815951, z: 0.07582276, w: 0.24732487}
+      scale: {x: 1.0000013, y: 1.0000019, z: 1.0000018}
+    - name: finger_01_L
+      parentName: hand_L
+      position: {x: 0.0068916306, y: 0.10633348, z: 0.033424854}
+      rotation: {x: 0.0000004353934, y: -0.00019767885, z: -0.00019576543, w: -1}
+      scale: {x: 1.0000001, y: 1, z: 1.0000015}
+    - name: finger_02_L
+      parentName: finger_01_L
+      position: {x: 0.00000003352761, y: 0.026616806, z: -0.0000000036088745}
+      rotation: {x: 0.027437706, y: -0.9996224, z: -0.000041223382, w: -0.0015044261}
+      scale: {x: 1.0000018, y: 1.0000019, z: 1}
+    - name: finger_03_L
+      parentName: finger_02_L
+      position: {x: -0.0000000055879346, y: 0.026611522, z: -0.000000057741993}
+      rotation: {x: -0.000029649225, y: -0.000935912, z: -0.0075504584, w: 0.99997103}
+      scale: {x: 1.0000013, y: 1.0000005, z: 1.0000006}
+    - name: middle_finger_01_L
+      parentName: hand_L
+      position: {x: 0.006873846, y: 0.10634552, z: -0.012148185}
+      rotation: {x: 0.00000043632465, y: -0.0001984537, z: -0.0001957235, w: -1}
+      scale: {x: 1.0000004, y: 1, z: 1.0000013}
+    - name: middle_finger_02_L
+      parentName: middle_finger_01_L
+      position: {x: -0.000000016298143, y: 0.0277887, z: -0.000000015832482}
+      rotation: {x: 0.02625473, y: -0.99884987, z: -0.028426807, w: 0.028313598}
+      scale: {x: 1.000005, y: 1.000004, z: 1.0000017}
+    - name: middle_finger_03_L
+      parentName: middle_finger_02_L
+      position: {x: 0.000000008847564, y: 0.028446402, z: 0.00000008195638}
+      rotation: {x: -0.014442998, y: 0.0156408, z: -0.025906172, w: 0.9994377}
+      scale: {x: 1.000002, y: 1.0000019, z: 1.0000007}
+    - name: thumb_01_L
+      parentName: hand_L
+      position: {x: 0.0040926966, y: 0.040544186, z: 0.03155439}
+      rotation: {x: -0.4251648, y: 0.35803106, z: 0.17596497, w: -0.8124561}
+      scale: {x: 1.0000006, y: 1.0000012, z: 1.0000004}
+    - name: thumb_02_L
+      parentName: thumb_01_L
+      position: {x: 0.000000004190951, y: 0.029144138, z: 0.0000000074505797}
+      rotation: {x: 0.02082041, y: -0.5652724, z: 0.0025918784, w: 0.8246375}
+      scale: {x: 1.0000004, y: 1.0000015, z: 1.0000008}
+    - name: thumb_03_L
+      parentName: thumb_02_L
+      position: {x: -0.000000035390254, y: 0.028887656, z: -0.000000029336658}
+      rotation: {x: 0.0034565558, y: 0.016854765, z: -0.005768674, w: 0.9998354}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.0000004}
+    - name: arm_R
+      parentName: Armature
+      position: {x: 0.20755388, y: 0.21779945, z: 1.0224922}
+      rotation: {x: 0.7029287, y: 0.0728161, z: 0.09345293, w: -0.70132416}
+      scale: {x: 1.0000017, y: 1.0000008, z: 1.0000012}
+    - name: lower_arm_R
+      parentName: arm_R
+      position: {x: -0.0000000055879346, y: 0.23005474, z: -0.000000026077029}
+      rotation: {x: -0.021354986, y: 0.7067842, z: 0.021354971, w: -0.7067843}
+      scale: {x: 1.0000008, y: 1.0000006, z: 1.0000011}
+    - name: hand_R
+      parentName: lower_arm_R
+      position: {x: 0.00000010756774, y: 0.23842907, z: 0.000000020489095}
+      rotation: {x: 0.07582354, y: 0.24732424, z: -0.684477, w: -0.6815958}
+      scale: {x: 1.0000007, y: 1.0000019, z: 1.0000004}
+    - name: finger_01_R
+      parentName: hand_R
+      position: {x: 0.006891682, y: 0.10633325, z: -0.033424802}
+      rotation: {x: -0.0000010719522, y: -0.00019744036, z: 0.0001962762, w: 1}
+      scale: {x: 1.0000007, y: 1.0000008, z: 1.0000011}
+    - name: finger_02_R
+      parentName: finger_01_R
+      position: {x: 0.0000000036670822, y: 0.0266169, z: -0.00000007054768}
+      rotation: {x: -0.027437901, y: 0.99962354, z: 0.00000007891697, w: -0.000001594919}
+      scale: {x: 1.0000012, y: 1.0000002, z: 1.0000011}
+    - name: finger_03_R
+      parentName: finger_02_R
+      position: {x: 0.000000006228219, y: 0.026611606, z: -0.000000013871611}
+      rotation: {x: -0.000000016763375, y: -0.000000024639117, z: -0.0075504323, w: 0.99997157}
+      scale: {x: 1.0000025, y: 1.0000027, z: 1.000003}
+    - name: middle_finger_01_R
+      parentName: hand_R
+      position: {x: 0.006873819, y: 0.106345445, z: 0.012148233}
+      rotation: {x: -0.0000010412186, y: -0.00019773842, z: 0.00019624084, w: 1}
+      scale: {x: 1.0000007, y: 1.0000015, z: 1.000001}
+    - name: middle_finger_02_R
+      parentName: middle_finger_01_R
+      position: {x: -0.000000023923345, y: 0.027788766, z: -0.000000030850057}
+      rotation: {x: -0.025417766, y: 0.9992508, z: -0.029177764, w: -0.0007215521}
+      scale: {x: 1.000001, y: 1, z: 1.000002}
+    - name: middle_finger_03_R
+      parentName: middle_finger_02_R
+      position: {x: 0.000000009313225, y: 0.028446425, z: 0.000000060885206}
+      rotation: {x: 0.016344769, y: 0.0012710587, z: -0.024750201, w: 0.9995593}
+      scale: {x: 1.000001, y: 1.0000012, z: 1.0000007}
+    - name: thumb_01_R
+      parentName: hand_R
+      position: {x: 0.004092829, y: 0.04054394, z: -0.031554166}
+      rotation: {x: -0.4600658, y: 0.004016667, z: 0.008345703, w: 0.88783646}
+      scale: {x: 1.0000002, y: 1.000002, z: 1.0000006}
+    - name: thumb_02_R
+      parentName: thumb_01_R
+      position: {x: -0.000000073108815, y: 0.029144108, z: -0.00000009866197}
+      rotation: {x: -0.02097481, y: 0.9997799, z: -0.00052329904, w: -0.000019835543}
+      scale: {x: 1.0000011, y: 1.0000004, z: 1.0000023}
+    - name: thumb_03_R
+      parentName: thumb_02_R
+      position: {x: 0.000000054948025, y: 0.028887728, z: 0.00000005261972}
+      rotation: {x: 0.0037749307, y: 0.00025051425, z: -0.0055656335, w: 0.9999774}
+      scale: {x: 1.000001, y: 1.0000011, z: 1.0000007}
+    - name: arm_target_R
+      parentName: Armature
+      position: {x: 0.31808037, y: 0.19609381, z: 0.57744694}
+      rotation: {x: 1, y: -0, z: -0, w: 0.000000059604645}
+      scale: {x: 1, y: 0.9999994, z: 0.9999994}
+    - name: arm_target_L
+      parentName: Armature
+      position: {x: -0.31211913, y: 0.19609381, z: 0.50805247}
+      rotation: {x: 1, y: -0, z: -0, w: 0.000000059604645}
+      scale: {x: 1, y: 0.9999994, z: 0.9999994}
+    - name: weapon
+      parentName: Armature
+      position: {x: -0.000008559073, y: -0.21494219, z: 1.0317454}
+      rotation: {x: 0.47506654, y: -0.0000007063169, z: 0.00000038132572, w: -0.8799499}
+      scale: {x: 1, y: 1.0000015, z: 1.0000015}
+    - name: slider
+      parentName: weapon
+      position: {x: -0.00000004992375, y: 0.09324277, z: 0.031098034}
+      rotation: {x: 0.000001597833, y: -0.8789059, z: -0.4769954, w: 0.0000015331889}
+      scale: {x: 1.0000017, y: 1.0000002, z: 1.0000001}
+    - name: mag
+      parentName: Armature
+      position: {x: 0.0000023535438, y: -0.19625667, z: 0.96958125}
+      rotation: {x: 0.62251544, y: -0.00000062815667, z: 0.00000049967997, w: -0.78260756}
+      scale: {x: 1, y: 1.0000011, z: 1.0000013}
+    - name: IK_arm_L
+      parentName: Armature
+      position: {x: -0.039430734, y: -0.14096242, z: 0.9509792}
+      rotation: {x: 1, y: -0, z: -0, w: 0.000000059604645}
+      scale: {x: 1, y: 0.99999946, z: 0.99999946}
+    - name: IK_arm_R
+      parentName: Armature
+      position: {x: 0.027620021, y: -0.1292778, z: 0.9910538}
+      rotation: {x: 1, y: -0, z: -0, w: 0.000000059604645}
+      scale: {x: 0.9999998, y: 0.9999995, z: 0.9999995}
+    - name: camera
+      parentName: Armature
+      position: {x: -3.4671271e-16, y: 0.17866261, z: 1.0855757}
+      rotation: {x: 1, y: -0, z: -0, w: 0.000000059604645}
+      scale: {x: 1, y: 0.99999934, z: 0.9999994}
+    - name: knife
+      parentName: Armature
+      position: {x: -0.24399997, y: 0.28099996, z: 0.7239999}
+      rotation: {x: 1, y: -0, z: -0, w: 0.000000059604645}
+      scale: {x: 1, y: 0.9999994, z: 0.9999994}
+    - name: arms
+      parentName: arms_handgun_01(Clone)
+      position: {x: -0, y: -0.9999999, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: knife 1
+      parentName: arms
+      position: {x: -0, y: -0.9999999, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: handgun_01
+      parentName: arms
+      position: {x: -0, y: -0.9999999, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: bullet
+      parentName: handgun_01
+      position: {x: -0, y: -0.9999999, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: scope_02
+      parentName: handgun_01
+      position: {x: -0, y: -0.9999999, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: scope_03
+      parentName: handgun_01
+      position: {x: -0, y: -0.9999999, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: silencer
+      parentName: handgun_01
+      position: {x: -0, y: -0.9999999, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: handgun_01_iron_sights
+      parentName: handgun_01
+      position: {x: -0, y: -0.9999999, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
