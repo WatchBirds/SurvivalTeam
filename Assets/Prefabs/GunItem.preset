@@ -1,0 +1,167 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GunItem
+  m_TargetType:
+    m_NativeTypeID: 114
+    m_ManagedTypePPtr: {fileID: 11500000, guid: 5a9ca3c2fc56fa24e8a64fb506fff794,
+      type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorHideFlags
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorClassIdentifier
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: id
+    value: 01
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Type
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: lefeBullet
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CurrentModl
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gunData.gunType
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gunData.prefabNa
+    value: Handgun_01
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gunData.animaType
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gunData.paraName
+    value: animaType
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gunData.fireParam
+    value: fire
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gunData.aimParam
+    value: aim
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gunData.reloadParam
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gunData.handPos
+    value: HandGunPos
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gunData.bulletNm
+    value: Small_Bullet
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gunData.msgNm
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gunData.maxBullet
+    value: 30
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gunData.shotspeed
+    value: 5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gunData.modls.Array.size
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gunData.modls.Array.data[0]
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gunData.modls.Array.data[1]
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gunData.bulletPos
+    value: BulletPos
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gunData.aimCamerPos
+    value: ArmPos
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gunData.aimPlayerSpeed
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gunData.Layers.Array.size
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gunData.Layers.Array.data[0]
+    value: Build
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gunData.Layers.Array.data[1]
+    value: Biology
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gunData.fx.Array.size
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gunData.fx.Array.data[0]
+    value: Dirt Impact Prefab
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gunData.fx.Array.data[1]
+    value: Blood Impact Prefab
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gunData.iconName
+    value: Handgun_01_icon
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: buData.speed
+    value: 50
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: buData.maxdistance
+    value: 200
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: mag
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: bullet
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: bullPos
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: aimCamerPos
+    value: 
+    objectReference: {fileID: 0}
